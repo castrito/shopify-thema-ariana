@@ -1,1 +1,1 @@
-# shopify-thema-ariana
+# shopify-theme-ariana
